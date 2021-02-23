@@ -6,8 +6,9 @@
 # History
 | Date | Description | Degree |
 | -- | -- | -- |
-| 2021/2/22 | 添加 1-10 | Easily |
-| 2021/2/23 | 添加 11-20 | Easily |
+| 2021/2/22 | 添加 1-10 | Easy |
+| 2021/2/23 | 添加 11-20 | Easy |
+| 2021/2/23 | 添加 21-23 | Medium |
 
 # Diagram
 ![image](https://github.com/FakeStandard/MSSQL-Topic/blob/main/images/BasicDiagram.png?raw=true)
